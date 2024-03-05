@@ -15,7 +15,7 @@ public class Exercicio1 {
     System.out.println("Digite outro número:");
     n2 = input.nextInt();
     
-    total = n1+ n2;
+    total = n1 + n2;
     System.out.println("A soma dos números inseridos é:" + total);
     input.close();
 
