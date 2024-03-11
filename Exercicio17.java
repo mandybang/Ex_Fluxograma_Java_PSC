@@ -10,7 +10,7 @@ public class Exercicio17 {
         System.out.print("Quantas canetas foram compradas? ");
         int nCanetas = input.nextInt();
 
-        System.out.print("Quantos reais custaram as canetas? ");
+        System.out.print("Qual nota foi utilizada para pagar o valor cobrado? ");
         double zReais = input.nextDouble();
 
         System.out.print("Qual foi o troco recebido: ");
